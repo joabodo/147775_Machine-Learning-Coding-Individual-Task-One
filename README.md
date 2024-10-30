@@ -2,7 +2,7 @@
 
 ### **Summary: Linear Regression using Gradient Descent in Python**
 
-In this task, we implemented a **Linear Regression model** from scratch using **Python** to predict office prices based on their size. The objective was to find the best-fitting line between **office size (X)** and **office price (y)** by minimizing the **Mean Squared Error (MSE)** using **Gradient Descent**. 
+In this job, we created a **Linear Regression model** from scratch in **Python** to estimate office prices based on their size. The goal was to identify the best-fitting line between **office size (X)** and **office price (y)** by minimising the **Mean Squared Error (MSE)** with **Gradient Descent**. 
 
 The steps followed were:  
 1. **Data Preparation**: 
@@ -25,5 +25,5 @@ The steps followed were:
 6. **Prediction**:
    - Finally, the model predicted the price for a **100 sq. ft** office to be **135.37 units**.
 
-This implementation showcases how a simple **linear regression model** can be built and trained using gradient descent. By continuously adjusting the slope and intercept to reduce the MSE, the model learns a linear relationship between the feature and target. This approach demonstrates the power of gradient descent for optimizing machine learning models.
+This implementation demonstrates how to build and train a simple **linear regression model** using gradient descent. By repeatedly modifying the slope and intercept to lower the MSE, the model learns a linear relationship between the feature and target. This method highlights the effectiveness of gradient descent in optimising machine learning models.
 
